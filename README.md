@@ -1,6 +1,6 @@
 # Mi Card
 
-<img src="https://github.com/SmileyDoodle/mi-card-flutter/images/example.png">
+<img src="https://github.com/SmileyDoodle/mi-card-flutter/blob/main/images/example.png">
 
 ## What I learnt
 
